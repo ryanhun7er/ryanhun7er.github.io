@@ -3,3 +3,22 @@
 body {
     background: linear-gradient(135deg, #49eec8 0%,#52d2f0 100%);
 }
+
+.logo-image {
+    width: 200px;
+    height: 100px;
+    overflow: hidden;
+    margin-top: 8px;
+}
+
+#navbarNav {
+    font-size: 30px;
+    margin-left: auto;
+    font-family: 'Shadows Into Light', sans-serif;
+}
+
+.header {
+    text-align: center;
+    margin-top: 5rem;
+    font-family: 'Shadows Into Light', sans-serif;
+}
