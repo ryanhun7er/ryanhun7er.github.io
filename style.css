@@ -14,11 +14,26 @@ body {
 #navbarNav {
     font-size: 30px;
     margin-left: auto;
-    font-family: 'Shadows Into Light', sans-serif;
+    font-family: 'Playfair Display SC', sans-serif;
+}
+
+.container {
+    font-family: 'Playfair Display SC', sans-serif;
 }
 
 .header {
     text-align: center;
     margin-top: 5rem;
-    font-family: 'Shadows Into Light', sans-serif;
+    font-family: 'Playfair Display SC', sans-serif;
 }
+
+p {
+    background: white;
+
+}
+
+/* font family styles: 
+font-family: 'Rokkitt', serif;
+font-family: 'Special Elite', cursive;
+font-family: 'Playfair Display SC', serif;
+font-family: 'Philosopher', sans-serif;*/
