@@ -34,16 +34,18 @@ body {
 
 p {
     border-style: double;
+    font-size: 16pt;
     padding: 5%;
 }    
 
 .roundcorners {
     display: block;
-    margin-top: 8px;
+    margin-top: 10%;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 10%;
     width: 50%;
-    border-radius: 30px;
+    border-radius: 50%;
     border-style: groove;
 }
 
@@ -69,6 +71,32 @@ p {
     font-family: 'Playfair Display SC', sans-serif;
     font-style: bold;
 }
+
+.h2 {
+    margin-top: 30%;
+}
+
+.form-group {
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.btn {
+    margin-left: 25%;
+    margin-right: 25%;   
+}
+
+.gif {
+    text-align: center;
+    margin-top: 3rem;
+    margin-bottom: 3rem;  
+}
+
+.collapse {
+    margin-left: 50pt;
+}
+
 /* font family styles: 
 font-family: 'Rokkitt', serif;
 font-family: 'Special Elite', cursive;
