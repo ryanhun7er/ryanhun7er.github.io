@@ -34,7 +34,7 @@ body {
 
 p {
     border-style: double;
-    padding: 10%;
+    padding: 5%;
 }    
 
 .roundcorners {
@@ -61,6 +61,14 @@ p {
     padding-top: 5%;
 }
 
+.hand {
+    border-radius: 50%;
+}
+
+.mt-0 {
+    font-family: 'Playfair Display SC', sans-serif;
+    font-style: bold;
+}
 /* font family styles: 
 font-family: 'Rokkitt', serif;
 font-family: 'Special Elite', cursive;
