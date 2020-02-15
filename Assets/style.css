@@ -23,6 +23,7 @@ body {
 
 .container {
     font-family: 'Playfair Display SC', sans-serif;
+    justify-content: center;
 }
 
 .header {
@@ -30,12 +31,14 @@ body {
     margin-top: 3rem;
     font-family: 'Playfair Display SC', sans-serif;
     font-style: bold;
+    margin-bottom: 5%;
 }
 
 p {
     border-style: double;
     font-size: 16pt;
     padding: 5%;
+    margin-bottom: 5px;
 }    
 
 .roundcorners {
@@ -70,6 +73,7 @@ p {
 .mt-0 {
     font-family: 'Playfair Display SC', sans-serif;
     font-style: bold;
+    text-align: center;
 }
 
 .h2 {
@@ -96,6 +100,8 @@ p {
 .collapse {
     margin-left: 50pt;
 }
+
+
 
 /* font family styles: 
 font-family: 'Rokkitt', serif;
