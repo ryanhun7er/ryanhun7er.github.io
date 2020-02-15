@@ -101,7 +101,9 @@ p {
     margin-left: 50pt;
 }
 
-
+.col-md-3 {
+    margin-bottom: 5%;
+}
 
 /* font family styles: 
 font-family: 'Rokkitt', serif;

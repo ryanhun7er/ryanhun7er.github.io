@@ -18,7 +18,7 @@ https://ryanhun7er.github.io/
 
 # Full Stack Web Developer
 * Name: Ryan Hunter Wilkinson
-* Email: [ryanhwilkinson@icloud.com](ryanhwilkinson@icloud.com)
+* Email: [mailto:ryanhwilkinson@icloud.com](ryanhwilkinson@icloud.com)
 * LinkedIn: https://linkedin.com/in/ryanhunterwilkinson/
 
 
