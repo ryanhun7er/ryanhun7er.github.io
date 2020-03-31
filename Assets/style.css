@@ -1,7 +1,7 @@
 /*Style for Portfolio*/
 
 body {
-    background: linear-gradient(135deg, #49eec8 0%,#52d2f0 100%);
+    background: linear-gradient(135deg, #56ecae 0%,#38b8f3 100%);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -14,6 +14,11 @@ body {
     overflow: hidden;
     margin-top: 8px;
 }
+
+/* #logo {
+    box-shadow: 8px 8px 10px whitesmoke;
+    border-radius: 10%;
+} */
 
 #navbarNav {
     font-size: 30px;
