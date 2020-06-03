@@ -79,14 +79,6 @@ hr {
 	border: 0;
 }
 
-.portbtn {
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -ms-transform: translate(50%, -50%);
-  transform: translate(50%, -50%);
-}
 /* Navigation */
 #nav {
 	z-index: 9999;
@@ -144,6 +136,17 @@ hr {
 }
 .navbar-custom .nav li.active a:hover {
 	color: #fff;
+}
+.centered{
+	text-align: center;
+}
+.appButton{
+	background-color: #7bc3d1;
+	color: #fff;
+	padding: 5px 10px;
+	font-size: 16px;
+	border-radius: 0;
+	margin: auto;
 }
 .btn-default {
 	color: #fff;
