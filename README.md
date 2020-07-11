@@ -1,24 +1,32 @@
 # Ryan Hunter Wilkinson's Portfolio
 
-## Live Link
-https://ryanhun7er.github.io/
+<img align="left" src="https://img.shields.io/badge/License-MIT-green" alt="license">
+<img align="right" width="100" height="100" src="https://avatars1.githubusercontent.com/u/59925546?s=400&u=19ccb48abfb0c61a5fa7dd875707b4e4a1025ff3&v=4" alt="Github Profile Image"><hr>
+<br>
+<h2>Table of Contents<h2>
+<ul>
+  <li><a href="#livelink">Live Link</a></li>   
+  <li><a href="#contributors">Contributors</a></li> 
+  <li><a href="#description">Description</a></li> 
+  <li><a href="#technology">Technology</a></li>
+  <li><a href="#contact">Contact</a></li> 
+<ul>
 
-## Contributors:
-* @ryanhun7er
-* Favicon: Coder Head Image by Freepik [https://www.flaticon.com/free-icon/coder-head_74873?term=coder&page=1&position=1](https://www.flaticon.com/free-icon/coder-head_74873?term=coder&page=1&position=1)
-* LinkedIn logo animation: designed by WIll Tyler [https://www.pinterest.com/pin/508977195364482938/](https://www.pinterest.com/pin/508977195364482938/)
+<h2 id= "livelink">Live Link</h2>
+https://iamryanhunter.com
 
-## About
-* This webpage is my portfolio as a Full Stack Web Developer
+<h2 id= "contributors">Contributors</h2>
+<li> @ryanhun7er</li>
 
-## License
-* MIT
+<h2 id= "description">Description</h2>
+<li> This is my portfolio as a Full Stack Web Developer</li>
 
-## Contact
+<h2 id= "technology">Technology Stack</h2>
+<li> Node.Js, React, APIs, Javascript, MongoDB, JQuery, MySQL, SQL Databases, HTML, CSS</li>
 
-# Full Stack Web Developer
-* Name: Ryan Hunter Wilkinson
-* Email: [ryanhwilkinson@icloud.com](mailto:ryanhwilkinson@icloud.com)
-* LinkedIn: https://linkedin.com/in/ryanhunterwilkinson/
+<h2 id= "fullstack">Full Stack Web Developer</h2>
 
-
+<h3 id= "contact">Contact</h3>
+<li> Name: Ryan Hunter Wilkinson</li>
+<li>Email: [ryanhwilkinson@icloud.com](mailto:ryanhwilkinson@icloud.com)</li>
+<li>LinkedIn: https://linkedin.com/in/ryanhunterwilkinson/</li>
