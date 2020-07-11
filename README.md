@@ -28,5 +28,5 @@ https://iamryanhunter.com
 
 <h3 id= "contact">Contact</h3>
 <li> Name: Ryan Hunter Wilkinson</li>
-<li>Email: [ryanhwilkinson@icloud.com](mailto:ryanhwilkinson@icloud.com)</li>
+<li>Email: ryanhwilkinson@icloud.com</li>
 <li>LinkedIn: https://linkedin.com/in/ryanhunterwilkinson/</li>
